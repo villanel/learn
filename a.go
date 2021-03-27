@@ -1,5 +1,5 @@
 package main
-dalskdasklh
+dal
 import "fmt"
 func main()
  asdasd
